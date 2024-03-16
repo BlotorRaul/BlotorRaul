@@ -1,16 +1,48 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BlotorRaul.BlotorRaul" />
 
-<!--
-**BlotorRaul/BlotorRaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings!+👋;+I'm+Blotor+Raul!;" />
+</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+ 
+ 🔭 I’m currently working on **spring application**
+ 
+ 🌱 I’m currently learning **Spring Boot 3, Design Pattern**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact **The first webcam was created at the University of Cambridge to monitor the coffee pot, letting people know if there was coffee available without having to make the trip to the break room.**
+
+ </div>
+
+<div align="center"> 
+  <a href="mailto:blotor.raul@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/blotor-r-49582a250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<!--   <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
+  </a> -->
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,vscode,github,clion" />
+    <img src="https://skillicons.dev/icons?i=hibernate,maven,mysql,postman,regex,spring,linux,java,git" /><br>
+</div>
+
+<br/>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlotorRaul&theme=tokyonight)](https://github.com/BlotorRaul/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlotorRaul&theme=tokyonight)](https://github.com/BlotorRaul/github-readme-stats)
+<br/><br/>
+
