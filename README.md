@@ -42,5 +42,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlotorRaul&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlotorRaul&theme=tokyonight)](https://github.com/BlotorRaul/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlotorRaul&layout=compact&theme=tokyonight)
+
 <br/><br/>
