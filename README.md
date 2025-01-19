@@ -12,10 +12,20 @@
 
 ⚡ Fun fact **The first webcam was created at the University of Cambridge to monitor the coffee pot, letting people know if there was coffee available without having to make the trip to the break room.**
 
- 📘 I’m active on **LeetCode** and have solved **350+ problems**:  
- [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/BlotorRaul/)
+</div>
 
- </div>
+<hr/>
+
+<h2 align="center">📘 I’m active on LeetCode! 📘</h2>
+
+<div align="center">
+  <h3>I've solved <b>350+ problems</b> on LeetCode!</h3>
+  <a href="https://leetcode.com/u/BlotorRaul/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&size=big" />
+  </a>
+</div>
+
+<hr/>
 
 <div align="center"> 
   <a href="mailto:blotor.raul@yahoo.com">
