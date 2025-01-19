@@ -40,6 +40,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlotorRaul&theme=tokyonight)](https://github.com/BlotorRaul/github-readme-stats)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlotorRaul&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlotorRaul&theme=tokyonight)](https://github.com/BlotorRaul/github-readme-stats)
 <br/><br/>
