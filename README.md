@@ -12,6 +12,9 @@
 
 ⚡ Fun fact **The first webcam was created at the University of Cambridge to monitor the coffee pot, letting people know if there was coffee available without having to make the trip to the break room.**
 
+ 📘 I’m active on **LeetCode** and have solved **350+ problems**:  
+ [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/BlotorRaul/)
+
  </div>
 
 <div align="center"> 
@@ -21,9 +24,6 @@
   <a href="https://www.linkedin.com/in/blotor-r-49582a250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-<!--   <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
-  </a> -->
 </div>
 
 <hr/>
@@ -40,9 +40,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlotorRaul&theme=tokyonight)](https://github.com/BlotorRaul/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlotorRaul&theme=tokyonight)](https://github.com/BlotorRaul/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlotorRaul&theme=tokyonight)](https://github.com/BlotorRaul/github-readme-stats)
 <br/><br/>
-
