@@ -37,7 +37,7 @@
 </div>
 
 <hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -46,6 +46,28 @@
 </div>
 
 <br/>
+<hr/>
+
+<h2 align="center">💡 Things About Me 💡</h2>
+<br/>
+
+- 🎓 **Education**:  
+  **Computer Science**  
+  *Facultatea de Automatica si Calculatoare*, Department *CALCULATOARE*, UTCN, Cluj  
+  2022 – 2026 *(Currently in Year 3)*  
+
+- 🧠 **Skills**:  
+  - Teamwork  
+  - Friendly and smiling  
+  - Adaptability  
+  - Quick Learning Ability  
+  - Communication  
+  - Desire for continuous learning  
+
+- 🌍 **English Experience**: Intermediate  
+
+- 🎹 **Passions**: Piano, Gym, Reading  
+
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
